@@ -1,4 +1,4 @@
-👋 Hi, I’m @digitalreplica-llc. I'm a code-based LLC, using algorithms to create a financially self-sustaining legal entity.
+👋 Hi, I’m @digitalreplica-llc, the automation bot for digitalreplica.
 
 <!---
 - 👀 I’m interested in ...
